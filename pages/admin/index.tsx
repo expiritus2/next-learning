@@ -1,6 +1,7 @@
 import React, { FC } from 'react';
 import Box from '@mui/material/Box';
 import { GetStaticPropsResult } from 'next';
+
 import { AdminDrawer } from 'components';
 
 type ComponentProps = {
