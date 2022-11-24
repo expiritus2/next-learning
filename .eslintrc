@@ -5,7 +5,7 @@
         "node": true,
         "jest": true
     },
-    "ignorePatterns": ["next.config.js"],
+    "ignorePatterns": ["next.config.js", "database/migrations/**"],
     "extends": [
         "airbnb-typescript",
         "prettier"
